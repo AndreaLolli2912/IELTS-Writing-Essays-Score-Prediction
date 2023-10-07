@@ -31,7 +31,7 @@ To assess our model's performance, we experimented with different types of embed
 To replicate our project, you will need the following dependencies:
 
 - [Dataset Link](https://www.kaggle.com/datasets/mazlumi/ielts-writing-scored-essays-dataset)
-- [GloVe Embedding](https://drive.google.com/drive/folders/18DakChwcXiTXS-R6aeVZwow5F-s0ZSeB?usp=sharing](https://drive.google.com/drive/folders/12NuXjRZvx4lEq58CRrlGBXohKidRe5wX?usp=sharing)
+- [GloVe Embedding](https://drive.google.com/drive/folders/18DakChwcXiTXS-R6aeVZwow5F-s0ZSeB?usp=sharing](https://drive.google.com/drive/folders/12NuXjRZvx4lEq58CRrlGBXohKidRe5wX?usp=sharing))
 
 ## Contributors
 
