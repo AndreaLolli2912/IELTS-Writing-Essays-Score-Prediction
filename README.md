@@ -1,8 +1,6 @@
 # IELTS Writing Essay Score Prediction
 
 ![GitHub contributors](https://img.shields.io/github/contributors/YourGitHubUsername/YourRepositoryName)
-![GitHub stars](https://img.shields.io/github/stars/YourGitHubUsername/YourRepositoryName)
-![GitHub license](https://img.shields.io/github/license/YourGitHubUsername/YourRepositoryName)
 
 ## Project Overview
 
@@ -40,9 +38,6 @@ To replicate our project, you will need the following dependencies:
 - [user 1]
 - [user 2]
 
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
