@@ -35,7 +35,7 @@ To replicate our project, you will need the following dependencies:
 
 ## Contributors
 
-- @valentinabitetto
+- '@valentinabitetto'
 - [user 2]
 
 
