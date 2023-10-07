@@ -1,6 +1,6 @@
 # IELTS Writing Essay Score Prediction
 
-![GitHub contributors](https://img.shields.io/github/contributors/YourGitHubUsername/YourRepositoryName)
+![GitHub contributors](https://img.shields.io/github/contributors/andrealolli13/IELTS-Writing-Essays-Score-Prediction)
 
 ## Project Overview
 
@@ -35,8 +35,8 @@ To replicate our project, you will need the following dependencies:
 
 ## Contributors
 
-- '@valentinabitetto'
-- [user 2]
+- [Valentina Bitetto](https://github.com/valentinabitetto)
+- [Ana Suarez](https://github.com/Ana91119)
 
 
 ## Acknowledgments
