@@ -1,7 +1,5 @@
 # IELTS Writing Essay Score Prediction
 
-![GitHub contributors](https://img.shields.io/github/contributors/andrealolli13/IELTS-Writing-Essays-Score-Prediction)
-
 ## Project Overview
 
 This project was created as our Natural Language Processing (NLP) exam project, made in collaboration with [user 1] and [user 2]. If you're considering working or studying abroad, you may need to prove your language proficiency. In English-speaking countries, this often means passing an English language proficiency test.
