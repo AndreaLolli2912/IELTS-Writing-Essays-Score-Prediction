@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was created as our Natural Language Processing (NLP) exam project, made in collaboration with [user 1] and [user 2]. If you're considering working or studying abroad, you may need to prove your language proficiency. In English-speaking countries, this often means passing an English language proficiency test.
+This project was created as our Natural Language Processing (NLP) exam project, made in collaboration with [Valentina Bitetto](https://github.com/valentinabitetto) and [Ana Suarez](https://github.com/Ana91119). If you're considering working or studying abroad, you may need to prove your language proficiency. In English-speaking countries, this often means passing an English language proficiency test.
 
 ## The Need for Automated Essay Grading
 
