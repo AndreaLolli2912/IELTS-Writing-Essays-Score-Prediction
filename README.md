@@ -35,10 +35,3 @@ To replicate our project, you will need the following dependencies:
 
 - [Valentina Bitetto](https://github.com/valentinabitetto)
 - [Ana Suarez](https://github.com/Ana91119)
-
-
-## Acknowledgments
-
-We'd like to express our gratitude to the research community for their contributions to the field of NLP and essay grading.
-
-Feel free to customize this template further to suit your project's unique needs.
